@@ -1,4 +1,3 @@
-
 const Square = ({ value, onSquareClick }) => {
 
     return (
